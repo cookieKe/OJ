@@ -1,3 +1,4 @@
+//感觉跟逻辑题差不多，学习一下其他思路
 int myAtoi(char* str) {
     if(NULL == str)
     {
